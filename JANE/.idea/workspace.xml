@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="formalne" targetName="formalne" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5b59022-42d7-4e89-be40-baa24f47e354" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cUFSLh9dNBPKXr9gg5lajduBYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.formalne">
+    <configuration name="formalne" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="formalne" TARGET_NAME="formalne" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="formalne" RUN_TARGET_NAME="formalne">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="generator.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="generator.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="interpret.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="interpret.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="lexer" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="lexer" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="lexer.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="lexer.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.formalne" />
+      <item itemvalue="Makefile.all" />
+      <item itemvalue="Makefile.lexer.o" />
+      <item itemvalue="Makefile.generator.o" />
+      <item itemvalue="Makefile.interpret.o" />
+      <item itemvalue="Makefile.lexer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.all" />
+        <item itemvalue="Makefile.lexer" />
+        <item itemvalue="Makefile.interpret.o" />
+        <item itemvalue="Makefile.generator.o" />
+        <item itemvalue="Makefile.lexer.o" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b59022-42d7-4e89-be40-baa24f47e354" name="Default Changelist" comment="" />
+      <created>1590575265602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590575265602</updated>
+      <workItem from="1590575271544" duration="150000" />
+      <workItem from="1590575778193" duration="1832000" />
+      <workItem from="1590577638978" duration="6624000" />
+      <workItem from="1590597372288" duration="4734000" />
+      <workItem from="1590603043471" duration="957000" />
+      <workItem from="1590604313308" duration="11416000" />
+      <workItem from="1590619956899" duration="155000" />
+      <workItem from="1590620323584" duration="17274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590575380442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590575380442" />
+    <state x="415" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590604744559">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1590604744559" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1590575376088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590575376088" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1590662427145">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590662427145" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1590597355542" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1590662427136">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590662427136" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1590597355541" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1590662427134">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590662427134" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1590597355540" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1590662427144">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590662427144" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1590597355541" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1590662427148">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590662427148" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1590662427147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590662427147" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1590662427146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590662427146" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1590662427147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590662427147" />
+  </component>
+</project>
